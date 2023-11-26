@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ayus0721
 - 👀 I’m interested in Python, DSA, Cloud Computing, and little bit of Web development stuff
 - 🌱 I’m currently learning AWS and Python
-- 💞️ I’m looking to collaborate on 
+- 👨‍🎓 I’m studying in Ramanujan College
 - 📫 How to reach me
 -
   [![image](https://github.com/Ayus0721/Ayus0721/assets/147092631/4e71fb40-92d7-456b-82b6-59e87fd5805a)](https://www.instagram.com/ayush_210305/)
