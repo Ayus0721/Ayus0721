@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayus0721
+#  👋 Hi, I’m @Ayus0721
 - 👀 I’m interested in Python, DSA, Cloud Computing, and little bit of Web development stuff
 - 🌱 I’m currently learning AWS and Python
 - 👨‍🎓 I’m studying in Ramanujan College
